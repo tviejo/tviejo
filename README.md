@@ -6,7 +6,7 @@
 
 - DUETI at ÉTS Montreal in Automation
 
-- How to reach me **tviejo12@gmail.com**
+-  How to reach me **tviejo12@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
