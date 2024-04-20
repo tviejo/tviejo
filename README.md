@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Viejo</h1>
-- 🌱 I’m currently learning **C at 42 Paris**
+- 🌱 I’m currently learning at 42 Paris
 
 - 📫 How to reach me **tviejo12@gmail.com**
 
