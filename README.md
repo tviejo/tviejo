@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Viejo</h1>
 
+<h3 align="left">Studies:</h3>
+
 - Currently learning at 42 Paris
 
 - DUT in industrial electronics and computing
