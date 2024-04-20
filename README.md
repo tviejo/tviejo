@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thomas Viejo</h1>
+
 - Currently learning at 42 Paris
+
 - DUT in industrial electronics and computing
+
 - DUETI at ÉTS Montreal in Automation
 
 <h3 align="left">Reach me:</h3>
--  **tviejo12@gmail.com**
+
+-   **tviejo12@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
