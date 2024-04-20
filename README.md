@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thomas Viejo</h1>
-- I’m currently learning at 42 Paris
+
+- Currently learning at 42 Paris
 
 - DUT in industrial electronics and computing
 
 - DUETI at ÉTS Montreal in Automation
 
-- 📫 How to reach me **tviejo12@gmail.com**
+- How to reach me **tviejo12@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
