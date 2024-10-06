@@ -1,6 +1,6 @@
 # Hi, I'm Thomas Viejo 👋
 
-I'm a student at [42 PARIS](https://www.42.fr/), with a **DUT in Electrical Engineering and Industrial IT** and a **DUETI in Automation** from [ÉTS Montreal](https://www.etsmtl.ca/).
+I'm an entrepreneur and student at [42 PARIS](https://www.42.fr/), with a **DUT in Electrical Engineering and Industrial IT** and a **DUETI in Automation** from [ÉTS Montreal](https://www.etsmtl.ca/).
 
 ## 🎓 Studies
 
