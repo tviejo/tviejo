@@ -4,14 +4,17 @@
 
 - Currently learning at 42 Paris
 
-- DUT in industrial electronics and computing
+- DUT in Electrical Engineering and Industrial IT
 
 - DUETI at ÉTS Montreal in Automation
+
+<h3 align="left">🚀 Current Project:</h3>
+
+Curently creating a new way of buying art using technologies such as Artificial Intelligence (AI) and Augmented Reality (AR).
 
 <h3 align="left">Reach me:</h3>
 
 -   **tviejo12@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/tviejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tviejo" height="30" width="40" /></a><a href="https://instagram.com/thomas_viejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomas_viejo" height="30" width="40" /></a></p>
