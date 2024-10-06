@@ -21,7 +21,6 @@ Curently creating a new way of buying art using technologies such as **Artificia
 ## 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tviejo&layout=compact&theme=dark)](https://github.com/tviejo)
-![](https://komarev.com/ghpvc/?username=tviejo)
 
 ## 📫 Get in Touch
 
