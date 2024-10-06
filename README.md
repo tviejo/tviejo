@@ -16,7 +16,7 @@ Curently creating a new way of buying art using technologies such as **Artificia
 
 - **Languages:** C, C++, C#
 - **Frameworks:** .NET
-- **Tools:** Adobe Suite
+- **Tools:** Vim, VScode, Adobe Suite
 
 ## 📊 GitHub Stats
 
