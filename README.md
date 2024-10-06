@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Thomas Viejo</h1>
+# Hi, I'm Thomas Viejo 👋
 
-<h3 align="left">Studies:</h3>
+I'm a student at [42 PARIS](https://www.42.fr/), with a **DUT in Electrical Engineering and Industrial IT** and a **DUETI in Automation** from [ÉTS Montreal](https://www.etsmtl.ca/).
 
-- Currently learning at 42 Paris
+## 🎓 Studies
 
-- DUT in Electrical Engineering and Industrial IT
+- **42 PARIS**
+- **DUT in Electrical Engineering and Industrial IT**
+- **DUETI at ÉTS Montreal in Automation**
 
-- DUETI at ÉTS Montreal in Automation
+## 🚀 Current Project
 
-<h3 align="left">🚀 Current Project:</h3>
+I'm an entrepreneur creating a new way of buying art using technologies such as **Artificial Intelligence (AI)** and **Augmented Reality (AR)**.
 
-Curently creating a new way of buying art using technologies such as Artificial Intelligence (AI) and Augmented Reality (AR).
+## 💻 Abilities
 
-<h3 align="left">Reach me:</h3>
+- **Languages:** C, C++, C#
+- **Frameworks:** .NET
+- **Tools:** Adobe Suite
 
--   **tviejo12@gmail.com**
+## 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/tviejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tviejo" height="30" width="40" /></a><a href="https://instagram.com/thomas_viejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomas_viejo" height="30" width="40" /></a></p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<!-- Replace 'yourusername' with your actual GitHub username -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tviejo&show_icons=true&locale=en&layout=compact" alt="tviejo" /></p>
+## ✉️ Get in Touch
+
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+- **Twitter:** [Your Twitter Handle](https://twitter.com/yourtwitterhandle)
+
+Feel free to reach out!
+
