@@ -10,7 +10,7 @@ I'm a student at [42 PARIS](https://www.42.fr/), with a **DUT in Electrical Engi
 
 ## 🚀 Current Project
 
-Curently looking for a Intership.
+Curently looking for a Intership and learning Python for Data Science
 
 ## 💻 Abilities
 
