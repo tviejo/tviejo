@@ -1,6 +1,6 @@
 # Hi, I'm Thomas Viejo 👋
 
-I'm an entrepreneur and student at [42 PARIS](https://www.42.fr/), with a **DUT in Electrical Engineering and Industrial IT** and a **DUETI in Automation** from [ÉTS Montreal](https://www.etsmtl.ca/).
+I'm a student at [42 PARIS](https://www.42.fr/), with a **DUT in Electrical Engineering and Industrial IT** and a **DUETI in Automation** from [ÉTS Montreal](https://www.etsmtl.ca/).
 
 ## 🎓 Studies
 
@@ -10,11 +10,11 @@ I'm an entrepreneur and student at [42 PARIS](https://www.42.fr/), with a **DUT 
 
 ## 🚀 Current Project
 
-Curently creating a new way of buying art using technologies such as **Artificial Intelligence (AI)** and **Augmented Reality (AR)**.
+Curently looking for a Intership.
 
 ## 💻 Abilities
 
-- **Languages:** C, C++, C#
+- **Languages:** C, C++, C#, Python, Javascipt
 - **Frameworks:** .NET
 - **Tools:** Vim, VScode, Adobe Suite
 
